@@ -1,0 +1,36 @@
+.heading{
+  text-align: center;
+}
+.name{
+  font-family: cursive;
+  font-weight: bold;
+}
+
+.about{
+  background-color: #E7BA22;
+  font-family: Lucida, sans-serif;
+  width: 100%;
+  text-align: center;
+}
+
+body{
+  background-color: #228EE7;
+  display: block;
+  margin: 0 auto;
+
+}
+
+.entry1{
+  font-family: fantasy;
+  text-align: center;
+}
+
+.entry2{
+  font-family: monospace;
+  text-align: center;
+}
+img{
+  display: block;
+  margin: 0 auto;
+
+}
